@@ -10,3 +10,5 @@ However, in order to avoid any __infringements__, I've removed the questions fro
 Therefore, this repository is only useful if you already have an active subscription to FileBase but got stuck at a question, or want to compare your own solution to mine.
 
 ## Remember! There is no only one true solution to a problem. There are almost always multiple solutions that take real world restrictions and use cases into consideration!
+
+You can see the list of current solutions under [Assets/GameDevHQ/Challenge](/Assets/GameDevHQ/Challenge)
